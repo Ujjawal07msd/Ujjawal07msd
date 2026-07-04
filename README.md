@@ -25,7 +25,7 @@
 
 ## &nbsp; About Me
 
-&nbsp; **B.Tech in AI & ML** — VIT Bhopal University &nbsp;|&nbsp; CGPA **8.63 / 10**
+&nbsp; **B.Tech in AI & ML** — VIT Bhopal University &nbsp;|&nbsp; CGPA **8.71 / 10**
 
 &nbsp; Building practical AI that solves real-world problems
 
