@@ -9,9 +9,10 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawalsharma0804/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjawal77.0077@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjawal07msd)
-[![WhatsApp](https://img.shields.io/badge/+91%208108388075-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918108388075)
+[![Call](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+918108388075)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918108388075)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ujjawal77.0077@gmail.com)
 
 <br/>
 
@@ -206,13 +207,15 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2FUjjawalSharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/UjjawalSharma)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2FUjjawalSharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawalsharma0804/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/ujjawal77.0077%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjawal77.0077@gmail.com)
-
 [![GitHub](https://img.shields.io/badge/github.com%2FUjjawal07msd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjawal07msd)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/%2B91%208108388075-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918108388075)
+[![Call](https://img.shields.io/badge/%2B91%208108388075%20📞-25D366?style=for-the-badge&logoColor=white)](tel:+918108388075)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918108388075)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/ujjawal77.0077%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ujjawal77.0077@gmail.com)
 
 <br/>
 
