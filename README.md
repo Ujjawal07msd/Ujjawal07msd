@@ -170,7 +170,7 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ujjawal07msd&theme=github-dark-blue&hide_border=true&ring=64748B&fire=94A3B8&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ujjawal07msd&theme=github-dark-blue&hide_border=true&ring=64748B&fire=94A3B8&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B&v=3)](https://git.io/streak-stats)
 
 </div>
 
@@ -180,7 +180,7 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 <div align="center">
 
-[![Ujjawal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjawal07msd&bg_color=0D1117&color=94A3B8&line=64748B&point=CBD5E1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ujjawal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjawal07msd&bg_color=0D1117&color=94A3B8&line=64748B&point=CBD5E1&area=true&hide_border=true&v=3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
