@@ -64,7 +64,7 @@ Seeking opportunities as an **AI / Machine Learning Engineer** where I can contr
 
 <td width="38%" align="center">
 
-<img src="https://github.com/Ujjawal07msd.png" width="230" style="border-radius:50%;" alt="Ujjawal Sharma"/>
+<img src="assets/banner.png" width="280" alt="Ujjawal Sharma"/>
 
 <br><br>
 
@@ -199,9 +199,9 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ujjawal07msd&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ujjawal07msd&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal07msd&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal07msd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
