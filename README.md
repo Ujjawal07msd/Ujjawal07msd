@@ -22,25 +22,67 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👨‍💻 About Me
 
-## &nbsp; About Me
+<table>
+<tr>
 
-&nbsp; **B.Tech in AI & ML** — VIT Bhopal University &nbsp;|&nbsp; CGPA **8.71 / 10**
+<td width="62%" valign="top">
 
-&nbsp; Building practical AI that solves real-world problems
+### 🎓 Education
 
-&nbsp; Interests: Machine Learning · Deep Learning · Computer Vision · NLP · MLOps
+**B.Tech in Artificial Intelligence & Machine Learning**  
+**VIT Bhopal University** • **CGPA: 8.71 / 10**
 
-&nbsp; Transforming research ideas into scalable, production-ready applications
+<br>
 
-&nbsp; Actively seeking roles as an **AI / ML Engineer**
+### 💡 About
 
-&nbsp; Based in **Bhopal, Madhya Pradesh, India**
+I'm passionate about building intelligent systems using **Machine Learning**, **Deep Learning**, and **Computer Vision** to solve real-world problems.
 
-<br clear="right"/>
+I enjoy taking ideas from research papers and turning them into scalable, production-ready AI applications.
+
+<br>
+
+### 🚀 Current Interests
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📖 Natural Language Processing
+- ☁️ MLOps
+
+<br>
+
+### 🎯 Career Goal
+
+Seeking opportunities as an **AI / Machine Learning Engineer** where I can contribute, learn, and build impactful AI products.
+
+📍 **Bhopal, Madhya Pradesh, India**
+
+</td>
+
+<td width="38%" align="center">
+
+<img src="https://github.com/Ujjawal07msd.png" width="230" style="border-radius:50%;" alt="Ujjawal Sharma"/>
+
+<br><br>
+
+<h3>Ujjawal Sharma</h3>
+
+<b>Machine Learning Engineer</b>
+
+<br><br>
+
+📍 Bhopal, India
+
+</td>
+
+</tr>
+</table>
 
 ---
+
 
 ## Current Focus
 
@@ -153,38 +195,43 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Ujjawal07msd">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ujjawal07msd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=CBD5E1"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ujjawal07msd&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ujjawal07msd&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal07msd&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
----
-
-## GitHub Streak
+<br>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ujjawal07msd&theme=github-dark-blue&hide_border=true&ring=64748B&fire=94A3B8&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B&v=3)](https://git.io/streak-stats)
+<img width="75%" src="https://streak-stats.demolab.com?user=Ujjawal07msd&theme=github-dark&hide_border=true"/>
 
 </div>
 
----
-
-## Contribution Graph
+<br>
 
 <div align="center">
 
-[![Ujjawal's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjawal07msd&bg_color=0D1117&color=94A3B8&line=64748B&point=CBD5E1&area=true&hide_border=true&v=3)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjawal07msd&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
----
+<br>
+
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ujjawal07msd/Ujjawal07msd/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+</div>
 
 ## Certifications
 
