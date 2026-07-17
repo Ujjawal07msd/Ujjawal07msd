@@ -197,11 +197,11 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 ## 📊 GitHub Analytics
 
-
 <div align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ujjawal07msd&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ujjawal07msd&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-opal-psi-64.vercel.app/api?username=Ujjawal07msd&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-opal-psi-64.vercel.app/api/top-langs/?username=Ujjawal07msd&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
 
 <br><br>
 
