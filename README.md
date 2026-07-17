@@ -197,25 +197,17 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ujjawal07msd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal07msd&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
 
 <div align="center">
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ujjawal07msd&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Ujjawal07msd&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ujjawal07msd&layout=compact&theme=transparent&hide_border=true"/>
 
-</div>
+<br><br>
 
-<br>
+<img width="70%" src="https://streak-stats.demolab.com?user=Ujjawal07msd&theme=transparent&hide_border=true"/>
 
-<div align="center">
+<br><br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjawal07msd&theme=github-dark&hide_border=true&area=true"/>
 
