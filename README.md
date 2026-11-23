@@ -32,7 +32,7 @@
 ### 🎓 Education
 
 **B.Tech in Artificial Intelligence & Machine Learning**  
-**VIT Bhopal University** • **CGPA: 8.71 / 10**
+**VIT Bhopal University** • **CGPA: 8.78 / 10**
 
 <br>
 
