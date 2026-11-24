@@ -38,7 +38,7 @@
 
 ### 💡 Profile Summary
 
-AI/ML engineering student with hands-on experience building machine learning and GenAI applications using **Python**, **scikit-learn**, **FastAPI**, **RAG**, and **LLM integration**. 
+AI/ML engineering student with hands-on experience building machine learning and GenAI applications using **Python**, **scikit-learn**, **FastAPI**, **RAG**, and **LLM integration**.
 
 Developed end-to-end projects spanning predictive analytics, multilingual government-document intelligence, and AI-powered website auditing. Passionate about transforming cutting-edge AI research into robust, production-ready solutions.
 
@@ -54,11 +54,11 @@ Developed end-to-end projects spanning predictive analytics, multilingual govern
 
 <br>
 
-### 🎯 Career Goal
+### 🎯 Location & Objective
 
-Seeking opportunities as an **AI / Machine Learning Engineer** or **GenAI Developer** where I can build impactful, scalable intelligent systems.
-
-📍 **Bhopal, Madhya Pradesh, India**
+🏠 **Hometown**: Thane, Maharashtra, India  
+🎓 **Current**: Bhopal, Madhya Pradesh (Studying at VIT Bhopal)  
+🎯 **Career Goal**: Seeking opportunities as an **AI / Machine Learning Engineer** or **GenAI Developer** to build impactful, scalable intelligent systems.
 
 </td>
 
@@ -74,7 +74,8 @@ Seeking opportunities as an **AI / Machine Learning Engineer** or **GenAI Develo
 
 <br><br>
 
-📍 Bhopal, India
+📍 **Thane, Maharashtra**  
+*(Studying in Bhopal, MP)*
 
 </td>
 
@@ -194,12 +195,12 @@ Fun Fact      →   Turning complex research papers into scalable production sof
 <br/>
 
 ### ⚡ GenAI, LLMs & Retrieval
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-2563EB?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF4F00?style=for-the-badge)
-![BM25](https://img.shields.io/badge/BM25-Keyword%20Search-10B981?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-Embeddings-7C3AED?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-2563EB?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-FF4F00?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-Keyword_Search-10B981?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-Embeddings-7C3AED?style=for-the-badge)
 
 <br/>
 
@@ -215,8 +216,8 @@ Fun Fact      →   Turning complex research papers into scalable production sof
 | Institution | Degree / Board | Stream / Specialization | Timeline | Score |
 |:---|:---|:---|:---:|:---:|
 | **VIT Bhopal University**, Bhopal | B.Tech | Artificial Intelligence & Machine Learning | Sep 2023 – May 2027 | **8.78 / 10 CGPA** |
-| **Gurukul Vidyapeeth Junior College** | HSC / Class XII | Computer Science | 2021 | **86.83%** |
-| **Vidyaniketan English High School** | SSC / Class X | General Studies | 2019 | **75.40%** |
+| **Gurukul Vidyapeeth Junior College**, Thane | HSC / Class XII | Computer Science | 2021 | **86.83%** |
+| **Vidyaniketan English High School**, Thane | SSC / Class X | General Studies | 2019 | **75.40%** |
 
 ---
 
@@ -226,12 +227,12 @@ Fun Fact      →   Turning complex research papers into scalable production sof
 
 | &nbsp; | Certification | Organization / Institute | Detail / Grade |
 |:---:|:---|:---|:---:|
-| ![IoT](https://img.shields.io/badge/IoT-NPTEL%20IIT%20Kharagpur-1E40AF?style=flat-square) | Introduction to IoT | NPTEL, IIT Kharagpur | **Elite + Silver (85%)** |
-| ![Cloud](https://img.shields.io/badge/Cloud-NPTEL%20IIT%20Kharagpur-F7941D?style=flat-square) | Cloud Computing | NPTEL, IIT Kharagpur | **Elite (73%)** |
-| ![Michigan](https://img.shields.io/badge/ML-University%20of%20Michigan-00274C?style=flat-square&logo=coursera&logoColor=white) | Applied Machine Learning in Python | University of Michigan | Verified Certificate |
-| ![VIT](https://img.shields.io/badge/CV-VIT%20Bhopal-6B21A8?style=flat-square) | Computer Vision | VIT Bhopal University | Academic Certification |
+| ![IoT](https://img.shields.io/badge/IoT-NPTEL_IIT_Kharagpur-1E40AF?style=flat-square) | Introduction to IoT | NPTEL, IIT Kharagpur | **Elite + Silver (85%)** |
+| ![Cloud](https://img.shields.io/badge/Cloud-NPTEL_IIT_Kharagpur-F7941D?style=flat-square) | Cloud Computing | NPTEL, IIT Kharagpur | **Elite (73%)** |
+| ![Michigan](https://img.shields.io/badge/ML-University_of_Michigan-00274C?style=flat-square&logo=coursera&logoColor=white) | Applied Machine Learning in Python | University of Michigan | Verified Certificate |
+| ![VIT](https://img.shields.io/badge/CV-VIT_Bhopal-6B21A8?style=flat-square) | Computer Vision | VIT Bhopal University | Academic Certification |
 | ![Deloitte](https://img.shields.io/badge/Analytics-Deloitte-86BC25?style=flat-square) | Data Analytics Job Simulation | Deloitte (Forage) | Practical Experience |
-| ![SQL](https://img.shields.io/badge/SQL-Bosscoder%20Academy-0EA5E9?style=flat-square&logo=postgresql&logoColor=white) | Advanced SQL | Bosscoder Academy | Technical Certification |
+| ![SQL](https://img.shields.io/badge/SQL-Bosscoder_Academy-0EA5E9?style=flat-square&logo=postgresql&logoColor=white) | Advanced SQL | Bosscoder Academy | Technical Certification |
 | ![AWS](https://img.shields.io/badge/Cloud-Intellipaat-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS Solutions Architect | Intellipaat | Professional Certification |
 
 </div>
@@ -268,15 +269,15 @@ Fun Fact      →   Turning complex research papers into scalable production sof
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2FUjjawalSharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawalsharma0804/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawalsharma0804/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/github.com%2FUjjawal07msd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjawal07msd)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ujjawal07msd)
 &nbsp;
-[![Call](https://img.shields.io/badge/%2B91%208108388075%20📞-25D366?style=for-the-badge&logoColor=white)](tel:+918108388075)
+[![Call](https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+918108388075)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918108388075)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918108388075)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/ujjawal77.0077%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ujjawal77.0077@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=ujjawal77.0077@gmail.com)
 
 <br/>
 
@@ -284,7 +285,7 @@ Fun Fact      →   Turning complex research papers into scalable production sof
 
 <br/>
 
-**Made with care from Bhopal, India**
+**From Thane, Maharashtra • Studying in Bhopal, Madhya Pradesh**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:334155,50:1E293B,100:0F172A&section=footer"/>
 
