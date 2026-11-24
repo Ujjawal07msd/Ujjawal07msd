@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E293B,100:334155&text=Ujjawal%20Sharma&fontSize=48&fontColor=F1F5F9&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=60&descColor=94A3B8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E293B,100:334155&text=Ujjawal%20Sharma&fontSize=48&fontColor=F1F5F9&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer%20%7C%20GenAI%20%26%20RAG%20%7C%20FastAPI&descAlignY=60&descColor=94A3B8"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Machine+Learning+Engineer;Computer+Vision+Developer;Python+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;GenAI+%26+RAG+Applications+Developer;Building+Intelligent+Systems;FastAPI+%26+Python+Backend+Developer;Always+Learning+Something+New" />
 
 <br/>
 
@@ -29,34 +29,34 @@
 
 <td width="62%" valign="top">
 
-### 🎓 Education
+### 🎓 Education Overview
 
 **B.Tech in Artificial Intelligence & Machine Learning**  
-**VIT Bhopal University** • **CGPA: 8.78 / 10**
+**VIT Bhopal University** (2023 – 2027) • **CGPA: 8.78 / 10**
 
 <br>
 
-### 💡 About
+### 💡 Profile Summary
 
-I'm passionate about building intelligent systems using **Machine Learning**, **Deep Learning**, and **Computer Vision** to solve real-world problems.
+AI/ML engineering student with hands-on experience building machine learning and GenAI applications using **Python**, **scikit-learn**, **FastAPI**, **RAG**, and **LLM integration**. 
 
-I enjoy taking ideas from research papers and turning them into scalable, production-ready AI applications.
+Developed end-to-end projects spanning predictive analytics, multilingual government-document intelligence, and AI-powered website auditing. Passionate about transforming cutting-edge AI research into robust, production-ready solutions.
 
 <br>
 
-### 🚀 Current Interests
+### 🚀 Technical Domains
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 📖 Natural Language Processing
-- ☁️ MLOps
+- 🤖 **Machine Learning & Deep Learning** (scikit-learn, TensorFlow, Keras)
+- ⚡ **GenAI & Retrieval-Augmented Generation** (RAG, Gemini, ChromaDB, BM25)
+- 👁️ **Computer Vision & NLP** (OpenCV, spaCy, OCR)
+- 🌐 **Backend & APIs** (FastAPI, RESTful Microservices, Pydantic)
+- ☁️ **DevOps & Cloud** (Docker, AWS, Hugging Face)
 
 <br>
 
 ### 🎯 Career Goal
 
-Seeking opportunities as an **AI / Machine Learning Engineer** where I can contribute, learn, and build impactful AI products.
+Seeking opportunities as an **AI / Machine Learning Engineer** or **GenAI Developer** where I can build impactful, scalable intelligent systems.
 
 📍 **Bhopal, Madhya Pradesh, India**
 
@@ -70,7 +70,7 @@ Seeking opportunities as an **AI / Machine Learning Engineer** where I can contr
 
 <h3>Ujjawal Sharma</h3>
 
-<b>Machine Learning Engineer</b>
+<b>AI / Machine Learning Engineer</b>
 
 <br><br>
 
@@ -83,44 +83,41 @@ Seeking opportunities as an **AI / Machine Learning Engineer** where I can contr
 
 ---
 
-
-## Current Focus
+## ⚡ Current Focus
 
 ```text
-Learning      →   Deep Learning  |  MLOps  |  System Design
-Building      →   Signature Forgery Detection  (TensorFlow + Keras)
-Goal          →   AI/ML Engineer at a product-driven company
-Exploring     →   Computer Vision  &  NLP
-Fun Fact      →   I enjoy solving real-world problems using AI
+Learning      →   Generative AI  |  Advanced RAG  |  Agentic Systems  |  MLOps
+Building      →   JanSahayak AI  &  Website Audit AI (WAEF v2.0)
+Goal          →   AI / Machine Learning Engineer at a product-driven company
+Exploring     →   Hybrid Retrieval (ChromaDB + BM25)  &  Gemini Flash Integration
+Fun Fact      →   Turning complex research papers into scalable production software
 ```
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Machine Learning Engineer Intern
-**Suvidha Foundation &nbsp;|&nbsp; Remote**
+### 🔬 AI Product Research & Development Intern
+**Prodigal AI &nbsp;|&nbsp; Delhi, India**  
+`Jul 2026 – Present`
+
+- Conduct **market intelligence and competitive analysis** of emerging AI tools to support strategic product ideation and feature research.
+- Collaborate closely with cross-functional R&D teams to draft technical documentation, competitive benchmark reports, and project roadmaps.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Machine Learning Engineer Intern
+**Suvidha Foundation &nbsp;|&nbsp; Remote**  
 `Aug 2025 – Oct 2025`
 
-- Deployed **2 AI-driven decision tools** → efficiency up **30%** across 3 departments
-- Built supervised ML models with feature engineering and hyperparameter tuning
-- Analytics dashboards → **+15% donor outreach**
-- Automated 4 workflows → reporting time cut from **2 hrs to 20 min**
-
-</td>
-<td width="50%" valign="top">
-
-### AI Software Developer
-**MERN × AI Hackathon &nbsp;|&nbsp; VIT Bhopal**
-`March 2025 · 24-hour sprint`
-
-- Full-stack AI web app delivered in **24 hours** as part of a 4-member team
-- ML model integrated with a **Node.js REST API** backend
-- Real-time pipeline via **React + MongoDB** — prediction response **< 500ms**
+- Deployed **2 AI decision-support tools** across 3 units, contributing to a reported **30% improvement** in operational processing efficiency.
+- Improved supervised-model accuracy by **15%** through rigorous 5-fold cross-validation.
+- Automated 4 critical ETL workflows, slashing execution runtime from **2 hours down to under 20 minutes**.
 
 </td>
 </tr>
@@ -128,36 +125,42 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Signature Forgery Detection
-`Python · TensorFlow · Keras · OpenCV · Scikit-image`
+### 🏛️ JanSahayak AI
+**Government Document Intelligence Assistant**  
+`Python` · `FastAPI` · `RAG` · `Google Gemini` · `ChromaDB` · `BM25`
 
-**Jan 2025 – Present**
-
-- Deep neural network classifying genuine vs. forged signatures
-- 8 discriminative image features extracted → **+18% classification accuracy**
-- 5-fold cross-validation → false-positive rate down **20%**
-
-**Result → 90%+ test accuracy on 1,000+ samples**
+- Built a bilingual (Hindi-English) assistant that delivers source-grounded answers about government schemes, policies, and circulars using **Retrieval-Augmented Generation (RAG)**.
+- Implemented robust document ingestion pipeline with PDF text extraction and **Tesseract OCR**, text cleaning, and semantic chunking.
+- Engineered hybrid retrieval combining multilingual MiniLM embeddings (**ChromaDB**) and **BM25 keyword search** (50:50 score fusion) feeding into **Gemini Flash-Lite** generation.
 
 </td>
 <td width="50%" valign="top">
 
-### Heart Disease Prediction
-`Python · Scikit-learn · Pandas · Matplotlib · Seaborn`
+### 🌐 Website Audit AI (WAEF v2.0)
+**Website Quality Assessment Platform**  
+`React` · `FastAPI` · `HTTPX` · `BeautifulSoup4` · `Puppeteer` · `Gemini API`
 
-**Aug – Dec 2024**
+- Developed a five-pass auditing workflow inspecting desktop layout, mobile/tablet responsiveness, security/privacy headers, and 5-sample network latency across 15 weighted parameters.
+- Designed a custom **100-point Website Quality Index** scoring engine in Python using normalized parameter scores, capped penalties, and letter-grade evaluations.
+- Integrated **Gemini 2.5 Flash** for automated executive summaries and improvement recommendations, with radar charts, PDF export, and a **Manifest V3 browser extension**.
 
-- Benchmarked 3 classifiers: Logistic Regression, Random Forest, SVM
-- End-to-end preprocessing → **+12% accuracy** over baseline
-- Evaluated with Precision, Recall, F1-score, ROC-AUC
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-**Result → 88% accuracy with Random Forest on 303 records**
+### 🫀 CardioSense AI — Cardiovascular Risk Prediction Platform
+`Python` · `scikit-learn` · `Pandas` · `FastAPI` · `Pydantic` · `Docker`
+
+- Analyzed **303 UCI Cleveland patient records** using 13 clinical features; executed thorough data preprocessing, outlier treatment, and exploratory data analysis (EDA).
+- Benchmarked Logistic Regression, Gradient Boosting, and Random Forest classifiers — achieving **83.61% accuracy** via stratified train-test validation.
+- Deployed production-grade inference service using **FastAPI** with Pydantic input validation schemas, probability confidence scores, batch CSV prediction capabilities, automated test suites, and interactive Swagger documentation.
 
 </td>
 </tr>
@@ -165,31 +168,71 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,html,css&perline=6" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js&perline=6" />
 
 <br/>
 
-### Machine Learning & AI
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=6" />
+### 🧠 Machine Learning & Deep Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6" />
 
 <br/>
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C6BC0?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,vscode,anaconda&perline=6" />
+### ⚡ GenAI, LLMs & Retrieval
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-2563EB?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF4F00?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-Keyword%20Search-10B981?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-Embeddings-7C3AED?style=for-the-badge)
+
+<br/>
+
+### 🌐 Backend, Frontend & Tools
+<img src="https://skillicons.dev/icons?i=fastapi,react,git,github,docker,aws,linux,vscode&perline=8" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+| Institution | Degree / Board | Stream / Specialization | Timeline | Score |
+|:---|:---|:---|:---:|:---:|
+| **VIT Bhopal University**, Bhopal | B.Tech | Artificial Intelligence & Machine Learning | Sep 2023 – May 2027 | **8.78 / 10 CGPA** |
+| **Gurukul Vidyapeeth Junior College** | HSC / Class XII | Computer Science | 2021 | **86.83%** |
+| **Vidyaniketan English High School** | SSC / Class X | General Studies | 2019 | **75.40%** |
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| &nbsp; | Certification | Organization / Institute | Detail / Grade |
+|:---:|:---|:---|:---:|
+| ![IoT](https://img.shields.io/badge/IoT-NPTEL%20IIT%20Kharagpur-1E40AF?style=flat-square) | Introduction to IoT | NPTEL, IIT Kharagpur | **Elite + Silver (85%)** |
+| ![Cloud](https://img.shields.io/badge/Cloud-NPTEL%20IIT%20Kharagpur-F7941D?style=flat-square) | Cloud Computing | NPTEL, IIT Kharagpur | **Elite (73%)** |
+| ![Michigan](https://img.shields.io/badge/ML-University%20of%20Michigan-00274C?style=flat-square&logo=coursera&logoColor=white) | Applied Machine Learning in Python | University of Michigan | Verified Certificate |
+| ![VIT](https://img.shields.io/badge/CV-VIT%20Bhopal-6B21A8?style=flat-square) | Computer Vision | VIT Bhopal University | Academic Certification |
+| ![Deloitte](https://img.shields.io/badge/Analytics-Deloitte-86BC25?style=flat-square) | Data Analytics Job Simulation | Deloitte (Forage) | Practical Experience |
+| ![SQL](https://img.shields.io/badge/SQL-Bosscoder%20Academy-0EA5E9?style=flat-square&logo=postgresql&logoColor=white) | Advanced SQL | Bosscoder Academy | Technical Certification |
+| ![AWS](https://img.shields.io/badge/Cloud-Intellipaat-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS Solutions Architect | Intellipaat | Professional Certification |
 
 </div>
 
@@ -199,8 +242,7 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 <div align="center">
 
-
-<br><br>
+<br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Ujjawal07msd&theme=transparent&hide_border=true"/>
 
@@ -212,8 +254,6 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 <br>
 
-
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -222,24 +262,9 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 </div>
 
-## Certifications
-
-<div align="center">
-
-| &nbsp; | Certificate | Issuer |
-|:---:|---|---|
-| ![Michigan](https://img.shields.io/badge/ML-University%20of%20Michigan-00274C?style=flat-square&logo=coursera&logoColor=white) | Applied Machine Learning in Python | University of Michigan |
-| ![NPTEL](https://img.shields.io/badge/Cloud-NPTEL%20IIT%20Kharagpur-F7941D?style=flat-square) | Cloud Computing | NPTEL, IIT Kharagpur |
-| ![VIT](https://img.shields.io/badge/CV-VIT%20Bhopal-6B21A8?style=flat-square) | Computer Vision | VIT Bhopal University |
-| ![Deloitte](https://img.shields.io/badge/Analytics-Deloitte-86BC25?style=flat-square) | Data Analytics Job Simulation | Deloitte |
-| ![SQL](https://img.shields.io/badge/SQL-Bosscoder%20Academy-0EA5E9?style=flat-square&logo=postgresql&logoColor=white) | Advanced SQL for Technical Interviews | Bosscoder Academy |
-| ![AWS](https://img.shields.io/badge/Cloud-Intellipaat-FF9900?style=flat-square&logo=amazonaws&logoColor=white) | AWS Solutions Architect | Intellipaat |
-
-</div>
-
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -255,7 +280,7 @@ Fun Fact      →   I enjoy solving real-world problems using AI
 
 <br/>
 
-*"I believe the best way to learn AI is by building solutions that create real impact."*
+*"I believe the best way to advance AI is by building robust solutions that create measurable real-world impact."*
 
 <br/>
 
